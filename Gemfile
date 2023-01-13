@@ -10,4 +10,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-github-metadata"
   gem "jekyll-agency"
+  gem "jekyll-seo-tag"
 end

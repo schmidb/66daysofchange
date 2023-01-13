@@ -11,29 +11,31 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: change your habits within 66 days
+    text: start your transformation now
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Designed for"
+    text: "A change program for everyone interested in a new life, new processes or new habits."
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Individual"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-user #find more at https://fontawesome.com/icons
+      - title: "Manager"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-user-tie
+      - title: "Family"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fas fa-people-roof
+      - title: "Company / Team"
+        icon: fas fa-people-group
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Your change program"
+    text: "Choose your change program and get started today."
     section: portfolio
     closebutton: "Close Project"
 
